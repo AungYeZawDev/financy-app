@@ -50,7 +50,7 @@ These instructions will help you set up and run the Financy App on your local ma
     ```flutter run```
 
 ### Folder Structure
-
+```
 financy-app/
 ├── lib/
 │   ├── main.dart            # App entry point
@@ -64,6 +64,7 @@ financy-app/
 ├── test/                    # Unit and widget tests
 ├── pubspec.yaml             # Project dependencies
 └── README.md                # Project README
+```
 
 ### Usage
 
