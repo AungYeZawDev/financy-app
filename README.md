@@ -85,3 +85,10 @@ financy-app/
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
+## Reference
+
+``` https://github.com/devkaio/financy_app.git ```
+
+[GitHub Profile](https://github.com/devkaio)
+

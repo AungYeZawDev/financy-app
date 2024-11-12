@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "636535752196",
+    "project_id": "financy-app-ee3e7",
+    "storage_bucket": "financy-app-ee3e7.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:636535752196:android:2c17eebe1d098bb868d751",
+        "android_client_info": {
+          "package_name": "com.thanlar.financy"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBwNhzaLF2bwFSszJVbnxB1o6S2eicpd30"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
